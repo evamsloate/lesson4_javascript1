@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 14, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Evadina Sloate)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we learned how to properly code a Monthly Expense Calculator.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://github.com/evamsloate/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned different types of code and their meaning.)
+2. (The parseFloat() method is used to convert a String to a Float.)
+3. (The toFixed() method is used to ensure a specified number of digits appear after the decimal place for the value.)
 
 
 
